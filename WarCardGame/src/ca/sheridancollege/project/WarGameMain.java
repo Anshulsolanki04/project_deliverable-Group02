@@ -2,9 +2,7 @@ package ca.sheridancollege.project;
 import java.util.Scanner;
 
 
-/**
- * Main class to run the War card game.
- */
+ // Main class to run the War card game.
 public class WarGameMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

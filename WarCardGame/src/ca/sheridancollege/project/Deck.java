@@ -1,8 +1,6 @@
 package ca.sheridancollege.project;
 
-/**
- * Represents a standard 52-card deck.
- */
+
 public class Deck extends GroupOfCards {
     public Deck() {
         super(52);
