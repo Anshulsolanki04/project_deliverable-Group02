@@ -2,9 +2,6 @@ package ca.sheridancollege.project;
 
 import java.util.ArrayList;
 
-/**
- * Abstract class defining the structure of a game.
- */
 public abstract class Game {
     private final String name;
     private ArrayList<Player> players;

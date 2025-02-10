@@ -1,10 +1,6 @@
 package ca.sheridancollege.project;
 import java.util.Scanner;
 
-
-/**
- * Implements the War card game logic.
- */
 public class WarGame extends Game {
     private WarPlayer player1;
     private WarPlayer player2;

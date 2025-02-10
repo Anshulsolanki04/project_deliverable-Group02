@@ -3,9 +3,6 @@ package ca.sheridancollege.project;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * Represents a deck or hand of cards.
- */
 public class GroupOfCards {
     protected ArrayList<Card> cards;
     private int size;

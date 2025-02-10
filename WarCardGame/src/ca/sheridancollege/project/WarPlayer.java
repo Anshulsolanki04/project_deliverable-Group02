@@ -1,8 +1,6 @@
 package ca.sheridancollege.project;
 
-/**
- * Represents a player in the War card game.
- */
+
 public class WarPlayer extends Player {
     private Hand hand;
 
